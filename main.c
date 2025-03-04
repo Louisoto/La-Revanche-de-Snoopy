@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <windows.h>
 #include "deplacement.h"
-#include "affichage_niveau.h"
+#include "affichage_niveaux.h"
 #include "procedure_niveau.h"
-#include "niveau1.h"
+#include "niveaux.h"
 #include "reglesdujeu.h"
 #include "motdepasse.h"
 #include "sauvegarde.h"
