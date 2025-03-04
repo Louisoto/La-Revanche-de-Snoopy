@@ -1,8 +1,5 @@
 #include "jeu.h"
-#include "niveau1.h"
-#include "niveau2.h"
-#include "niveau3.h"
-#include "niveau4.h"
+#include "niveaux.h"
 
 int jeu() {
     int scoretotal = 0;
